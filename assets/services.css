@@ -253,7 +253,7 @@
   }
   .intro__circle {
     top: 30%;
-    right: 15%;
+    right: 12.5%;
     width: 200px;
     height: 200px;
     -webkit-transform: translateY(-50%) scale(0.8);
